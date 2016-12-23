@@ -7,6 +7,6 @@ public class Charmander extends Pokemon{
 	}
 
 	public void attack(){
-		System.out.println("/¡¨Ember¡K/¡¨");
+		System.out.println("¡¨Ember¡K¡¨");
 	}
 }
